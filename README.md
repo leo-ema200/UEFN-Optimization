@@ -37,3 +37,7 @@ UEFN-Optimization/
 5. No afirmes que se han ejecutado optimizaciones o benchmarks salvo que exista evidencia reproducible.
 
 > Los siguientes temas se incorporarán como carpetas hermanas de `Ticks per seconds/`, sin alterar la estructura de los existentes.
+
+## Nuevo tema: arrays y pools
+
+- [How to make your arrays 100x Faster](./How%20to%20make%20your%20arrays%20100x%20Faster/README.md): construcción de arrays con `for`, eliminación de copias al extraer y pools con cursor.
