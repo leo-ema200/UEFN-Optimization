@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Un bloque inmediato puede bloquear el avance">
+<rect width="1200" height="540" rx="20" fill="#0c1222"/><rect x="20" y="20" width="1160" height="500" rx="18" fill="#111c31" stroke="#283952" stroke-width="2"/>
+<text x="55" y="78" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" font-weight="bold" fill="#64e2c5">EXPERIMENTO  /  VÍDEO PARTE 1</text>
+<text x="55" y="123" font-family="Arial, sans-serif" font-size="37" font-weight="bold" fill="#f5f7fc">Un bloque inmediato puede bloquear el avance</text>
+<path d="M55 150 H1145" stroke="#354761" stroke-width="2"/>
+<rect x="70" y="202" width="278" height="125" rx="15" fill="#172741" stroke="#64e2c5" stroke-width="2"/><text x="90" y="240" font-family="Arial,sans-serif" font-size="24" fill="#f5f7fc" font-weight="bold">10 tareas</text><text x="90" y="273" font-family="Arial,sans-serif" font-size="17" fill="#a9bdd4">Inicio y Sleep(1.0)</text>
+ <path d="M365 265 L421 265" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/><path d="M409 255 L421 265 L409 275" fill="none" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/>
+ <rect x="440" y="202" width="310" height="125" rx="15" fill="#172741" stroke="#ff858e" stroke-width="2"/><text x="460" y="240" font-family="Arial,sans-serif" font-size="24" fill="#f5f7fc" font-weight="bold">Bucle de cálculos</text><text x="460" y="273" font-family="Arial,sans-serif" font-size="17" fill="#a9bdd4">Trabajo inmediato intenso</text>
+ <path d="M765 265 L825 265" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/><path d="M813 255 L825 265 L813 275" fill="none" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/>
+ <rect x="844" y="202" width="281" height="125" rx="15" fill="#172741" stroke="#79a8ff" stroke-width="2"/><text x="864" y="240" font-family="Arial,sans-serif" font-size="24" fill="#f5f7fc" font-weight="bold">Reanudación</text><text x="864" y="273" font-family="Arial,sans-serif" font-size="17" fill="#a9bdd4">Las tareas prosiguen</text>
+ <text x="75" y="411" font-family="Arial,sans-serif" font-size="21" fill="#c4d4e8">En la prueba se reportan ~9,9 s reales frente a ~1,2 s de simulación.</text>
+<text x="55" y="494" font-family="Arial, sans-serif" font-size="17" fill="#8ea6c2">Esquema editorial derivado de la explicación, no captura ni benchmark original.</text>
+</svg>

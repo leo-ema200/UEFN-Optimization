@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Procesar por lotes y mantener el orden">
+<rect width="1200" height="540" rx="20" fill="#0c1222"/><rect x="20" y="20" width="1160" height="500" rx="18" fill="#111c31" stroke="#283952" stroke-width="2"/>
+<text x="55" y="78" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" font-weight="bold" fill="#64e2c5">PATRÓN  /  VÍDEO PARTE 2</text>
+<text x="55" y="123" font-family="Arial, sans-serif" font-size="37" font-weight="bold" fill="#f5f7fc">Procesar por lotes y mantener el orden</text>
+<path d="M55 150 H1145" stroke="#354761" stroke-width="2"/>
+<rect x="65" y="210" width="245" height="125" rx="15" fill="#172741" stroke="#64e2c5" stroke-width="2"/><text x="85" y="248" font-family="Arial,sans-serif" font-size="24" fill="#f5f7fc" font-weight="bold">Pendientes</text><text x="85" y="281" font-family="Arial,sans-serif" font-size="17" fill="#a9bdd4">Elementos por procesar</text>
+ <path d="M327 275 L389 275" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/><path d="M377 265 L389 275 L377 285" fill="none" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/>
+ <rect x="409" y="210" width="328" height="125" rx="15" fill="#172741" stroke="#79a8ff" stroke-width="2"/><text x="429" y="248" font-family="Arial,sans-serif" font-size="24" fill="#f5f7fc" font-weight="bold">Procesar N</text><text x="429" y="281" font-family="Arial,sans-serif" font-size="17" fill="#a9bdd4">Tamaño de lote medible</text>
+ <path d="M752 275 L817 275" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/><path d="M805 265 L817 275 L805 285" fill="none" stroke="#ffbd72" stroke-width="5" stroke-linecap="round"/>
+ <rect x="837" y="210" width="287" height="125" rx="15" fill="#172741" stroke="#64e2c5" stroke-width="2"/><text x="857" y="248" font-family="Arial,sans-serif" font-size="24" fill="#f5f7fc" font-weight="bold">Sleep(0.0)</text><text x="857" y="281" font-family="Arial,sans-serif" font-size="17" fill="#a9bdd4">Ceder y continuar</text>
+ <path d="M975 354 V395 H563 V355" fill="none" stroke="#ffbd72" stroke-width="4" stroke-dasharray="10 9"/>
+ <text x="73" y="433" font-family="Arial,sans-serif" font-size="20" fill="#c4d4e8">El autor muestra un gestor que cede tras procesar un conjunto de spawners.</text>
+<text x="55" y="494" font-family="Arial, sans-serif" font-size="17" fill="#8ea6c2">Esquema editorial derivado de la explicación, no captura ni benchmark original.</text>
+</svg>
