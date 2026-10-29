@@ -9,6 +9,7 @@ Biblioteca técnica modular de **optimización y buenas prácticas en UEFN / Ver
 | Tema | Contenido | Documentación |
 |---|---|---|
 | **Ticks per seconds** | Concurrencia en Verse, presupuesto de simulación, `Sleep(0.0)`, reparto de trabajo, pruebas y aplicación al Aim Trainer | [Abrir tema](./Ticks%20per%20seconds/README.md) |
+| **How to make your arrays 100x Faster** | Construcción eficiente con `for`, costos de copias y `Slice`, pools reutilizables con `FreeIndex`, pruebas y aplicación al Aim Trainer | [Abrir tema](./How%20to%20make%20your%20arrays%20100x%20Faster/README.md) |
 
 ## Convención de cada tema
 
@@ -16,16 +17,26 @@ Cada tema tiene su **propio directorio padre**, un archivo `README.md` que sirve
 
 ```text
 UEFN-Optimization/
-├── README.md                      # Índice general
-└── Ticks per seconds/
-    ├── README.md                  # Navegación del tema
+├── README.md                              # Índice general
+├── Ticks per seconds/
+│   ├── README.md                          # Índice del tema
+│   ├── knowledge/
+│   │   └── Ticks_Per_Second.md            # Guía para agentes
+│   ├── assets/
+│   │   ├── README.md
+│   │   ├── capture-notes.md
+│   │   └── diagrams/                      # 5 diagramas SVG
+│   └── sources/
+│       └── README.md
+└── How to make your arrays 100x Faster/
+    ├── README.md                          # Índice del tema
     ├── knowledge/
-    │   └── Ticks_Per_Second.md   # Base principal para agentes
+    │   └── Arrays_100x_Faster.md          # Guía para agentes
     ├── assets/
-    │   ├── README.md             # Inventario y explicación de recursos
-    │   └── diagrams/             # Diagramas visuales autocontenidos
+    │   ├── README.md
+    │   └── diagrams/                      # 4 diagramas SVG
     └── sources/
-        └── README.md             # Procedencia y límites
+        └── README.md
 ```
 
 ## Para agentes de IA
@@ -36,8 +47,4 @@ UEFN-Optimization/
 4. Distingue claramente `[VIDEO]`, `[EPIC]`, `[APLICACIÓN]` y `[NO VERIFICADO]`.
 5. No afirmes que se han ejecutado optimizaciones o benchmarks salvo que exista evidencia reproducible.
 
-> Los siguientes temas se incorporarán como carpetas hermanas de `Ticks per seconds/`, sin alterar la estructura de los existentes.
-
-## Nuevo tema: arrays y pools
-
-- [How to make your arrays 100x Faster](./How%20to%20make%20your%20arrays%20100x%20Faster/README.md): construcción de arrays con `for`, eliminación de copias al extraer y pools con cursor.
+> Los próximos temas se añadirán como carpetas independientes al mismo nivel, y **cada tema nuevo deberá registrarse tanto en la tabla «Temas disponibles» como en este árbol de navegación**, sin alterar la documentación existente.
