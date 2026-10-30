@@ -21,3 +21,8 @@ Segundo tema de **UEFN-Optimization**. Esta carpeta es hermana de `Ticks per sec
 ## Estado
 
 Documentación: publicada. Pruebas dentro del Aim Trainer: pendientes. Código completo del retorno final del pool: no disponible en el archivo recibido.
+
+
+## Aplicación medida en MOV-002
+
+[Componentes escalares, construcción plana y presupuesto cooperativo](../Scalar%20math%20and%20movement%20preparation/README.md). Evidencia de este proyecto; separar resultados combinados de benchmarks aislados.

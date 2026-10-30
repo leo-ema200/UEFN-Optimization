@@ -10,6 +10,7 @@ Biblioteca técnica modular de **optimización y buenas prácticas en UEFN / Ver
 |---|---|---|
 | **Ticks per seconds** | Concurrencia en Verse, presupuesto de simulación, `Sleep(0.0)`, reparto de trabajo, pruebas y aplicación al Aim Trainer | [Abrir tema](./Ticks%20per%20seconds/README.md) |
 | **How to make your arrays 100x Faster** | Construcción eficiente con `for`, costos de copias y `Slice`, pools reutilizables con `FreeIndex`, pruebas y aplicación al Aim Trainer | [Abrir tema](./How%20to%20make%20your%20arrays%20100x%20Faster/README.md) |
+| **Scalar math and movement preparation** | Caso MOV-002: componentes float, arrays planos, cesiones y fidelidad medida | [Abrir tema](./Scalar%20math%20and%20movement%20preparation/README.md) |
 
 ## Convención de cada tema
 
@@ -18,6 +19,11 @@ Cada tema tiene su **propio directorio padre**, un archivo `README.md` que sirve
 ```text
 UEFN-Optimization/
 ├── README.md                              # Índice general
+├── Scalar math and movement preparation/
+│   ├── README.md
+│   ├── knowledge/MOV002_Case_Study.md
+│   ├── evidence/                         # Informes sanitizados y hashes
+│   └── sources/README.md
 ├── Ticks per seconds/
 │   ├── README.md                          # Índice del tema
 │   ├── knowledge/

@@ -25,3 +25,8 @@
 Lee primero [la guía completa](knowledge/Ticks_Per_Second.md) y sus diez reglas obligatorias (sección 8). Consulta los diagramas para comprender el flujo; la información crítica ya está transcrita en texto. Las imágenes creadas en este repositorio son ilustraciones técnicas, no pruebas ejecutadas localmente.
 
 [Volver al índice general](../README.md)
+
+
+## Aplicación medida en MOV-002
+
+[Componentes escalares, construcción plana y presupuesto cooperativo](../Scalar%20math%20and%20movement%20preparation/README.md). Evidencia de este proyecto; separar resultados combinados de benchmarks aislados.

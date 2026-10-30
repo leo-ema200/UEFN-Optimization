@@ -1,0 +1,515 @@
+{
+  "scope": "Numerical transcription of current Verse. Maximum over both sets of linear-polyline knots; mean sampled every 0.002 s. HTML coordinates are quantized for drawing only. Known baseline failures omitted by visualizer remain documented separately.",
+  "variants": [
+    {
+      "name": "DesviosAleatorios",
+      "mode": 0,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 30.429220990251512,
+          "frames_orig": 1531,
+          "frames_opt": 1531,
+          "stats": {
+            "identical": true,
+            "shared": 1532,
+            "same": 1532,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 30.682316239429756,
+          "frames_orig": 1545,
+          "frames_opt": 1545,
+          "stats": {
+            "identical": true,
+            "shared": 1546,
+            "same": 1546,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 31.107984712872213,
+          "frames_orig": 1564,
+          "frames_opt": 1564,
+          "stats": {
+            "identical": true,
+            "shared": 1565,
+            "same": 1565,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "TramosLargos360",
+      "mode": 1,
+      "seeds": [
+        {
+          "seed": 2023443307,
+          "duration": 31.029312511200466,
+          "frames_orig": 1555,
+          "frames_opt": 1555,
+          "stats": {
+            "identical": true,
+            "shared": 1556,
+            "same": 1556,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 31.303266774614226,
+          "frames_orig": 1570,
+          "frames_opt": 1570,
+          "stats": {
+            "identical": true,
+            "shared": 1571,
+            "same": 1571,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 42,
+          "duration": 31.649291259861275,
+          "frames_orig": 1585,
+          "frames_opt": 1585,
+          "stats": {
+            "identical": true,
+            "shared": 1586,
+            "same": 1586,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "CambiosCortos360",
+      "mode": 2,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 30.895966830436205,
+          "frames_orig": 1565,
+          "frames_opt": 1565,
+          "stats": {
+            "identical": true,
+            "shared": 1566,
+            "same": 1566,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 30.33080779054435,
+          "frames_orig": 1537,
+          "frames_opt": 1537,
+          "stats": {
+            "identical": true,
+            "shared": 1538,
+            "same": 1538,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 30.196936107431,
+          "frames_orig": 1530,
+          "frames_opt": 1530,
+          "stats": {
+            "identical": true,
+            "shared": 1531,
+            "same": 1531,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "LargoConstante360",
+      "mode": 3,
+      "seeds": [
+        {
+          "seed": 2023443307,
+          "duration": 31.89498579694813,
+          "frames_orig": 2387,
+          "frames_opt": 2387,
+          "stats": {
+            "identical": true,
+            "shared": 2388,
+            "same": 2388,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 32.41356483705697,
+          "frames_orig": 2466,
+          "frames_opt": 2466,
+          "stats": {
+            "identical": true,
+            "shared": 2467,
+            "same": 2467,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 42,
+          "duration": 32.606736195601435,
+          "frames_orig": 2462,
+          "frames_opt": 2462,
+          "stats": {
+            "identical": true,
+            "shared": 2463,
+            "same": 2463,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "CortoConstante360",
+      "mode": 4,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 31.25087455026267,
+          "frames_orig": 2431,
+          "frames_opt": 2431,
+          "stats": {
+            "identical": true,
+            "shared": 2432,
+            "same": 2432,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 30.535174720950003,
+          "frames_orig": 2369,
+          "frames_opt": 2369,
+          "stats": {
+            "identical": true,
+            "shared": 2370,
+            "same": 2370,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 30.06864627042059,
+          "frames_orig": 2359,
+          "frames_opt": 2359,
+          "stats": {
+            "identical": true,
+            "shared": 2360,
+            "same": 2360,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "FrontalProfundidad",
+      "mode": 5,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 27.123169537363793,
+          "frames_orig": 2140,
+          "frames_opt": 2140,
+          "stats": {
+            "identical": true,
+            "shared": 2141,
+            "same": 2141,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 28.31806229638834,
+          "frames_orig": 2266,
+          "frames_opt": 2266,
+          "stats": {
+            "identical": true,
+            "shared": 2267,
+            "same": 2267,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 27.503321931424697,
+          "frames_orig": 2153,
+          "frames_opt": 2153,
+          "stats": {
+            "identical": true,
+            "shared": 2154,
+            "same": 2154,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "CambiosRapidos360",
+      "mode": 6,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 31.139733486166595,
+          "frames_orig": 3071,
+          "frames_opt": 3071,
+          "stats": {
+            "identical": true,
+            "shared": 3072,
+            "same": 3072,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 30.822348619790123,
+          "frames_orig": 3061,
+          "frames_opt": 3061,
+          "stats": {
+            "identical": true,
+            "shared": 3062,
+            "same": 3062,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 31.115078996241607,
+          "frames_orig": 3044,
+          "frames_opt": 3044,
+          "stats": {
+            "identical": true,
+            "shared": 3045,
+            "same": 3045,
+            "max_cm": 0.0,
+            "max_t": 0.0,
+            "mean_mm": 0.0,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "RumboDash360",
+      "mode": 7,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 31.0,
+          "frames_orig": 7790,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3099,
+            "same": 3099,
+            "max_cm": 0.0741515735603772,
+            "max_t": 26.564856507425183,
+            "mean_mm": 0.029112925438577814,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 31.0,
+          "frames_orig": 7786,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3101,
+            "same": 3101,
+            "max_cm": 0.07406596753807328,
+            "max_t": 13.074758624479621,
+            "mean_mm": 0.028522985554487214,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 31.0,
+          "frames_orig": 7794,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3099,
+            "same": 3099,
+            "max_cm": 0.07435953996119679,
+            "max_t": 22.06485551164962,
+            "mean_mm": 0.028825187863912263,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "DesviosDash360",
+      "mode": 8,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 31.0,
+          "frames_orig": 7813,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3098,
+            "same": 3098,
+            "max_cm": 0.48902065057837935,
+            "max_t": 28.085233676361906,
+            "mean_mm": 0.0737574230686863,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 31.0,
+          "frames_orig": 7837,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3097,
+            "same": 3097,
+            "max_cm": 0.6554272790017892,
+            "max_t": 0.035665467419321646,
+            "mean_mm": 0.07578902034422576,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 31.0,
+          "frames_orig": 7827,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3099,
+            "same": 3099,
+            "max_cm": 0.6766991330030356,
+            "max_t": 27.74513400360465,
+            "mean_mm": 0.07227113747949623,
+            "same_rng": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "CambiosRapidosDash360",
+      "mode": 9,
+      "seeds": [
+        {
+          "seed": 580662299,
+          "duration": 31.0,
+          "frames_orig": 11161,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3099,
+            "same": 3099,
+            "max_cm": 1.1576742470224393,
+            "max_t": 27.005242211160237,
+            "mean_mm": 0.2360778576770266,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 2023443307,
+          "duration": 31.0,
+          "frames_orig": 10864,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3098,
+            "same": 3098,
+            "max_cm": 1.4138057018494754,
+            "max_t": 15.085096136186014,
+            "mean_mm": 0.24138892654832197,
+            "same_rng": true
+          }
+        },
+        {
+          "seed": 20261027,
+          "duration": 31.0,
+          "frames_orig": 11088,
+          "frames_opt": 3100,
+          "stats": {
+            "identical": false,
+            "shared": 3097,
+            "same": 3097,
+            "max_cm": 1.4536347329410615,
+            "max_t": 30.64442006905672,
+            "mean_mm": 0.2546064694606156,
+            "same_rng": true
+          }
+        }
+      ]
+    }
+  ]
+}

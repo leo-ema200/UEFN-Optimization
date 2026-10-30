@@ -1,0 +1,20 @@
+{
+  "review_date_local": "2026-10-29",
+  "native_compilation": "BuildAll: zero diagnostics",
+  "user_visual_acceptance": true,
+  "numeric_report": "checks/review_fast_preparation_report.json",
+  "native_run_report": "checks/review_native_runs.json",
+  "verse_sha256": {
+    "mov_002_bounds.verse": "d186f3caf7d64be9f208c10a3d6f134cd8e2466039e9de8ce9b69af27af9b1d0",
+    "mov_002_configuration.verse": "80a29474a58714060329250598c98e80db5d83dd9be042c19dc254e670d19df9",
+    "mov_002_generator.verse": "a899095bce968bae0ecd77190b66410d2811cf4ec8821376c82c9640b9cc0dba",
+    "mov_002_keyframes.verse": "727b04d1e81fe60c2d41a5ef176e22b5f99751028c0e418eaed75170dce4c86c",
+    "mov_002_math.verse": "616e6700e99c5361d359f8c03b9b975086d55d2a7cf4fe8ee4125aea2cca0f71",
+    "mov_002_movement.verse": "fbac2499519e7e50749fb696f90badd44f03d71013dc021ab3f43408017706ba",
+    "mov_002_npc_support.verse": "6ccd8ec69671670300542c901080d4d239b2fd3433e7848bde43223394d3c379",
+    "mov_002_pause_probe_frames.verse": "6ff63ebe35bceedf1d6a1be479c1b8520ed82c6853e25cbf2a6a08c021b5679f",
+    "mov_002_preparation.verse": "9737f5dd18712823462c3a31adb11c7920f33a77685e5a4f10b2da1f33511ec4",
+    "mov_002_preview_device.verse": "972c58f29e38bc2f9dbd93856b7a24f1fbab85be8e2cff352bfa3ba8e6dd05b3",
+    "mov_002_types.verse": "5aa793cc25b21b1a0e943c20b5309baae2da3f27689e7e4304b22176c59fced8"
+  }
+}
